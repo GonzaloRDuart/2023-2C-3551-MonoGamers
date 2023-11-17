@@ -28,7 +28,7 @@ float2 shadowMapSize;
 static const float modulatedEpsilon = 0.000041200182749889791011810302734375;
 static const float maxEpsilon = 0.000023200045689009130001068115234375;
 
-
+float extraBias;
     
 
 texture ModelTexture;
@@ -217,7 +217,7 @@ float4 MainPS(in MainVertexShaderOutput input) : COLOR
         shadowMapTextureCoordinates.y = 1.0f - shadowMapTextureCoordinates.y;
         
 
-        float inclinationBias = max(modulatedEpsilon * (1.0 - dot(normal, lightDirection)), maxEpsilon);
+        float inclinationBias =  extraBias;
         
         // Sample and smooth the shadowmap
         // Also perform the comparison inside the loop and average the result
