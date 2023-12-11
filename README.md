@@ -16,19 +16,19 @@ Proyecto plantilla para los trabajos prácticos de la asignatura electiva [Técn
 ## Integrantes
 1. Gonzalo Duarte
    
-   ![gonzalo_duarte](https://github.com/GonzaloRDuart/2023-2C-3551-MonoGamers/assets/102747335/704eb4cd-8eeb-4740-861f-ee0463b142f4 =250x250)
+   ![gonzalo_duarte](https://github.com/GonzaloRDuart/2023-2C-3551-MonoGamers/assets/102747335/704eb4cd-8eeb-4740-861f-ee0463b142f4 | width=100)
 
 2. Fidel Ibire
    
-![fidel_ibire](https://github.com/GonzaloRDuart/2023-2C-3551-MonoGamers/assets/102747335/6220ac2b-22b9-4c2e-b305-c4a571667da8 =250x250)
+![fidel_ibire](https://github.com/GonzaloRDuart/2023-2C-3551-MonoGamers/assets/102747335/6220ac2b-22b9-4c2e-b305-c4a571667da8 | width=100)
 
 3. Gabriel Rodriguez
    
-   ![gabriel_rodriguez](https://github.com/GonzaloRDuart/2023-2C-3551-MonoGamers/assets/102747335/50518187-c612-4402-8bee-1c478c633893 =250x250)
+   ![gabriel_rodriguez](https://github.com/GonzaloRDuart/2023-2C-3551-MonoGamers/assets/102747335/50518187-c612-4402-8bee-1c478c633893 | width=100)
 
 4. Tobias Ducrot
    
-![tobias_ducrot](https://github.com/GonzaloRDuart/2023-2C-3551-MonoGamers/assets/102747335/55de2b49-802b-451b-9517-371cbc3b0d6f =250x250)
+![tobias_ducrot](https://github.com/GonzaloRDuart/2023-2C-3551-MonoGamers/assets/102747335/55de2b49-802b-451b-9517-371cbc3b0d6f | width=100)
 
 
 ## Capturas
